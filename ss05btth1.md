@@ -63,6 +63,8 @@ AI phải tự trả lời “có/không” cho các câu sau, nếu có câu �
 6. Trích lập quỹ tiết kiệm theo tỷ lệ cam kết.
 7. Chia phần còn lại cho chi tiêu linh hoạt theo quy tắc 50/30/20 cải tiến.
 
+ giọng văn chuyên nghiệp không thêm các từ ngữ cảm xúc
+
 * **Bảng tổng hợp:**
   * Mục 1: Tổng thu nhập gồm 3 cột (số liệu nhập vào, tổng các số liệu ghi rõ phép tính, kết quả đầu vào).
   * Mục 2: Các khoản thu chi theo cố định gồm 2 cột (các bước tính toán và kết quả cuối cùng).
